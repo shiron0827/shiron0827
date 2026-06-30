@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+I'm shiron, a software engineering student at San Jose State University.
+
+I like to develop games as a hobby! You can check out a few of my projects on my itch page.
+I also have experience in web development from projects in my classes.
+
+I am currently studying to become a full-stack engineer.
+I am familiar with Unity, React, Tailwind, and MySQL, and am working on learning more about system design and its components.
+
 <!--
 **shiron0827/shiron0827** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
